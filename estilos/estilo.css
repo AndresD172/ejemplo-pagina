@@ -1,0 +1,23 @@
+/* #quienes-somos .outer-container */
+#quienes-somos .outer-container {
+    display: flex;
+    flex-direction: row;
+}
+
+#quienes-somos .img-quienes-somos {
+    /* width: 15vw; */
+    /* width: 100px; */
+
+    /* PX básicamente es un tamaño fijo.  */
+    width: 100em;
+}
+
+#quienes-somos .titulo {
+    font-family: 'roboto', sans-serif;
+}
+
+#quienes-somos .subrayar{
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 100px;
+}
